@@ -141,7 +141,7 @@ class _UploadScreenState extends State<UploadScreen> {
       _showLoadingDialog(); // Show loading dialog
 
       try {
-        final uri = Uri.parse('https://gwx51b25-5001.inc1.devtunnels.ms/predict');
+        final uri = Uri.parse('http://34.123.90.164:5001/predict');
         final request = http.MultipartRequest('POST', uri)
           ..files.add(http.MultipartFile.fromBytes('file', _fileBytes!, filename: _fileName));
 
