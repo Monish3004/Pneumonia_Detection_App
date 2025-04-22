@@ -1,9 +1,9 @@
 # pneumonia_detection
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/be71d1b6-3d4a-496f-9d07-1ec2a65b6d63" />
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/100eb038-a7ab-453e-96b4-8297c20e370f" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/fca4c9d0-1746-43a4-8fa5-018095a565c6" />
+<img width="315" alt="image" src="https://github.com/user-attachments/assets/08c75b75-9f0d-4ff3-a29f-9b5690eca836" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/61f0654b-2eb2-46bd-8a4e-0eedcab80a9f" />
+<img width="279" alt="image" src="https://github.com/user-attachments/assets/8c1e1f36-7b98-4035-bd0e-ed6fbed1accf" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/9a5363c0-6e04-42e9-998b-b938e0c56fc7" />
+<img width="269" alt="image" src="https://github.com/user-attachments/assets/4553ee9c-f02e-4cc3-a140-d7d23f3058e2" />
