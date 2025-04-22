@@ -1,16 +1,8 @@
 # pneumonia_detection
 
-A new Flutter project.
+<img width="91" alt="image" src="https://github.com/user-attachments/assets/be71d1b6-3d4a-496f-9d07-1ec2a65b6d63" />
 
-## Getting Started
+<img width="89" alt="image" src="https://github.com/user-attachments/assets/fca4c9d0-1746-43a4-8fa5-018095a565c6" />
 
-This project is a starting point for a Flutter application.
+<img width="84" alt="image" src="https://github.com/user-attachments/assets/61f0654b-2eb2-46bd-8a4e-0eedcab80a9f" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
